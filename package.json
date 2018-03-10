@@ -1,0 +1,26 @@
+{
+  "name": "techdegree-project-6",
+  "version": "1.0.0",
+  "description": "Content Scraper",
+  "main": "scraper.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/collinhalliday/techdegree-project-6.git"
+  },
+  "keywords": [
+    "Content",
+    "Scraper"
+  ],
+  "author": "Collin Halliday",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/collinhalliday/techdegree-project-6/issues"
+  },
+  "homepage": "https://github.com/collinhalliday/techdegree-project-6#readme",
+  "dependencies": {
+    "osmosis": "^1.1.6"
+  }
+}
