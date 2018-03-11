@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/collinhalliday/techdegree-project-6#readme",
   "dependencies": {
+    "csv-writer": "^1.0.0",
     "osmosis": "^1.1.6"
   }
 }
