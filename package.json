@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/collinhalliday/techdegree-project-6.git"
+    "url": "git+https://github.com/collinhalliday/content-scraper.git"
   },
   "keywords": [
     "Content",
@@ -17,9 +17,9 @@
   "author": "Collin Halliday",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/collinhalliday/techdegree-project-6/issues"
+    "url": "https://github.com/collinhalliday/content-scraper/issues"
   },
-  "homepage": "https://github.com/collinhalliday/techdegree-project-6#readme",
+  "homepage": "https://github.com/collinhalliday/content-scraper#readme",
   "dependencies": {
     "csv-writer": "^1.0.0",
     "osmosis": "^1.1.6"
